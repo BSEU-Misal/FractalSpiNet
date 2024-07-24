@@ -15,13 +15,13 @@
 
 <p>In FractalSpiNet of in this repo, there are functions for all state-of-the-art methods.
 <p>
-
+<img src="BlockDiagramofFractalSpiNet.jpeg" />
 <h2>Dataset</h2>
-<p align="left"><a href="https://data.mendeley.com/datasets/ydkrtmygjp/1">Dataset for the Segmentation of Cervical Spinal Cord and Cervical MS Lesions</a></p>
+<p align="left">Mendeley Data: <a href="https://data.mendeley.com/datasets/ydkrtmygjp/1">Dataset for the Segmentation of Cervical Spinal Cord and Cervical MS Lesions</a></p>
 <p>Cite this Dataset:<p>
 <code>Polattimur, Rukiye; Dandıl, Emre; Yıldırım, Mehmet Süleyman; Uluçay, Süleyman; Şenol, Utku (2024), “Dataset for the Segmentation of Cervical Spinal Cord and Cervical MS Lesions”, Mendeley Data, V1, doi: 10.17632/ydkrtmygjp.1
 </code>
-<img src="BlockDiagramofFractalSpiNet.jpeg" />
+
 <h2 align="left">I code with</h2>
 
 ###
