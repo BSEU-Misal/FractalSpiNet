@@ -10,14 +10,18 @@
 
 ###
 
-<h2>Dataset</h2>
-<p align="left"><a href="https://data.mendeley.com/datasets/ydkrtmygjp/1">Dataset for the Segmentation of Cervical Spinal Cord and Cervical MS Lesions</a></p>
 
 <p>In this study, the performance of the proposed FractalSpiNet method for automatic segmentation of the cervical spinal cord region and detection of MS lesions in the cervical spinal cord is compared with state-of-the-art methods such as Attention U-Net (Att U-Net), Residual U-Net (Res U-Net) and Attention Residual U-Net (Att-Res U-Net), especially typical U-Net. </p>
 
 <p>In FractalSpiNet of in this repo, there are functions for all state-of-the-art methods.
 <p>
 
+<h2>Dataset</h2>
+<p align="left"><a href="https://data.mendeley.com/datasets/ydkrtmygjp/1">Dataset for the Segmentation of Cervical Spinal Cord and Cervical MS Lesions</a></p>
+<p>Cite this Dataset:<p>
+<code>
+Polattimur, Rukiye; Dandıl, Emre; Yıldırım, Mehmet Süleyman; Uluçay, Süleyman; Şenol, Utku (2024), “Dataset for the Segmentation of Cervical Spinal Cord and Cervical MS Lesions”, Mendeley Data, V1, doi: 10.17632/ydkrtmygjp.1
+</code>
 <img src="BlockDiagramofFractalSpiNet.jpeg" />
 <h2 align="left">I code with</h2>
 
